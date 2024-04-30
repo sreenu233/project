@@ -1,0 +1,27 @@
+.white-a, .black-a { position: relative; top: 5px; float: left; }
+.black-a { left: 8px; float: left; }
+.log-s a { color: #fff; }
+#login-box { width: 50%; margin: 0px auto; border: 1px solid #0F4EA5; padding: 15px 40px; border-radius: 15px; box-shadow: 5px 5px 5px 0px #0F4EA5; }
+#login-box span, #frmapply span { display: inherit !important; }
+h3 { text-transform: inherit; }
+.ab-cont p a { color: #fff; }
+#register-box { width: 100%; margin: 0px auto;  }
+#register-box span { display: inherit; }
+#register-box .form-group { margin-left: 0px; margin-right: 0px; }
+.chosen-single { background: #fff !important; }
+.chosen-single span { color: #999; font-size: 16px; }
+.form-group img { height: 60px; }
+.form-group input { border: 1px solid #ddd; }
+.multijson-table .btn { border-radius: 5px; padding: 5px 10px 5px 5px; margin-top:0px; float: right; }
+.multijson-table tr th { background: #efefef; vertical-align: top!important; }
+.multijson-table .col-md-12 { padding: 20px 0px 10px 0px; }
+.card-header { background: #efefef; padding: 20px 20px 10px 20px; border-radius: 5px; margin-bottom: 10px; }
+.card-header i { font-size: 22px; }
+.card-header.active { background: #0F4EA5; }
+.card-header.active h5 { color: #fff; }
+.buttons { margin-bottom: 25px; }
+.buttons .prev-btn { text-align: left; }
+.buttons .next-btn { text-align: right; }
+#multijson-skill_courses_in th:nth-child(1) div:nth-child(2) {
+	display:none;
+}
